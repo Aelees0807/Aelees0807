@@ -163,8 +163,8 @@ me.say_hi()
 > 4. Replace the snake `src` URL with:
 >    `https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake-dark.svg`
 
-<!-- Uncomment after Actions setup ↓ -->
-<!-- <img src="https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake-dark.svg" width="100%"/> -->
+
+<img src="https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake-dark.svg" width="100%"/> 
 
 </div>
 
