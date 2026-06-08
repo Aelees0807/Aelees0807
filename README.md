@@ -154,14 +154,6 @@ me.say_hi()
 
 <div align="center">
 
-> ⚠️ The snake requires a one-time GitHub Actions setup to display **your** real contributions.
->
-> **How to enable it in 2 minutes:**
-> 1. Go to your `Aelees0807` repo → **Actions** tab → Enable workflows
-> 2. Create `.github/workflows/snake.yml` with content from [Platane/snk](https://github.com/Platane/snk)
-> 3. Run the workflow once — it generates the SVG automatically
-> 4. Replace the snake `src` URL with:
->    `https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake-dark.svg`
 
 
 <img src="https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake-dark.svg" width="100%"/> 
