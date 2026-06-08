@@ -1,261 +1,226 @@
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                   AELEES BHUVA — GitHub Profile README             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00fff0,50:7B2FFF,100:ff00c8&height=220&section=header&text=AELEES%20BHUVA&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%20%7C%20%20Data%20Scientist%20%20%7C%20%20ML%20Explorer&descSize=17&descAlignY=62&animation=blinking&stroke=7B2FFF&strokeWidth=2" width="100%"/>
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%20There!%20I'm%20Aelees%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Data%20Science%20Enthusiast%20%7C%20ML%20Explorer&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
-</div>
-
-<!-- ══════════════ TYPING ANIMATION ══════════════ -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=2500&pause=800&color=00FFF0&center=true&vCenter=true&width=700&lines=⚡+Engineering+the+Future+with+Code;🧠+B.Tech+CSE+%40+CHARUSAT+University;🔬+Data+Science+Intern+%40+Synent+Technologies;💡+Full-Stack+%7C+ML+%7C+Deep+Learning;🚀+Building+What+Doesn't+Exist+Yet...)](https://git.io/typing-svg)
-
-</div>
-
-<!-- ══════════════ SOCIAL + VISITOR BADGES ══════════════ -->
-<div align="center">
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aelees-bhuva)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aelees0807)
-[![Profile Views](https://komarev.com/ghpvc/?username=Aelees0807&color=blueviolet&style=for-the-badge&label=VISITORS)](https://github.com/Aelees0807)
-
-</div>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Engineering+%40+CHARUSAT;Full-Stack+Web+Developer+%F0%9F%92%BB;Data+Science+%26+ML+Enthusiast+%F0%9F%A7%A0;Building+impactful+projects+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
 <br/>
 
-<!-- ══════════════ GLOWING DIVIDER ══════════════ -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- Profile Views & Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aelees--bhuva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aelees-bhuva)
+[![GitHub](https://img.shields.io/badge/GitHub-Aelees0807-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aelees0807)
+[![Profile Views](https://komarev.com/ghpvc/?username=Aelees0807&label=Profile%20Views&color=7C3AED&style=for-the-badge)](https://github.com/Aelees0807)
 
-<!-- ══════════════ ABOUT ME ══════════════ -->
+</div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp; `< SYSTEM.BOOT />`
+---
 
-```bash
-╔══════════════════════════════════════════════════════════════════════╗
-║                      INITIALIZING USER PROFILE...                    ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  NAME        →  Aelees Bhuva                                         ║
-║  ROLE        →  Full-Stack Dev  |  Data Scientist  |  ML Learner     ║
-║  UNIVERSITY  →  DEPSTAR, CHARUSAT University, Gujarat 🇮🇳             ║
-║  DEGREE      →  B.Tech Computer Engineering (3rd Year)               ║
-║  CGPA        →  7.8 / 10.0                                           ║
-║  INTERNSHIP  →  Data Science @ Synent Technologies [ACTIVE]          ║
-║  PRIOR EXP   →  3Skill — Power BI | ML Pipelines | Data Workflows    ║
-║  CURRENTLY   →  EDA Dashboards | PyTorch | Deep Learning             ║
-║  INTERESTS   →  Cricket 🏏  |  Pool/Billiards 🎱  |  Hackathons 🔥  ║
-║  STATUS      →  [ ████████████░░░░ ] LEVELLING UP...                 ║
-╚══════════════════════════════════════════════════════════════════════╝
+## 🧑‍💻 About Me
+
+```python
+class Aelees:
+    def __init__(self):
+        self.name        = "Aelees Bhuva"
+        self.university  = "DEPSTAR, CHARUSAT University, Gujarat 🇮🇳"
+        self.degree      = "B.Tech Computer Engineering (3rd Year)"
+        self.cgpa        = 7.8
+        self.internship  = "Data Science Intern @ Synent Technologies"
+        self.focus       = ["Full-Stack Web Dev", "Data Science", "Machine Learning"]
+        self.currently   = "Building EDA dashboards & Streamlit/Power BI apps"
+        self.learning    = ["PyTorch", "Deep Learning", "Advanced ML"]
+        self.hobbies     = ["Cricket 🏏", "Pool/Billiards 🎱", "Hackathons 🔥"]
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing. 🚀")
+
+me = Aelees()
+me.say_hi()
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ══════════════ TECH STACK ══════════════ -->
+## 🛠️ Tech Stack
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp; `< TECH.ARSENAL />`
+### 💻 Languages
+<div>
 
-### ⚡ Languages
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
----
-
-### 🌐 Frontend Universe
-
-<div align="center">
+### 🌐 Frontend
+<div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22A39F?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 </div>
 
----
-
-### 🔩 Backend Core
-
-<div align="center">
+### 🔧 Backend
+<div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
 
----
-
-### 🗄️ Data Layer & Cloud
-
-<div align="center">
+### 🗄️ Databases & Cloud
+<div>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
----
-
-### 🤖 Data Science & AI
-
-<div align="center">
+### 📊 Data Science & ML
+<div>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
----
-
-### 🧰 DevOps & Tools
-
-<div align="center">
+### 🧰 Tools & DevOps
+<div>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ══════════════ GITHUB STATS ══════════════ -->
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="28"> &nbsp; `< STATS.MATRIX />`
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aelees0807&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF0&icon_color=7B2FFF&text_color=FFFFFF&count_private=true&border_radius=12" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aelees0807&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFF0&text_color=FFFFFF&langs_count=8&border_radius=12" height="180"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aelees0807&theme=tokyonight" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aelees0807&theme=tokyonight" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aelees0807&theme=tokyonight" height="170"/>
 
 </div>
-
-<br/>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aelees0807&theme=tokyonight&hide_border=true&background=0D1117&stroke=7B2FFF&ring=00FFF0&fire=FF00C8&currStreakLabel=00FFF0&sideLabels=FFFFFF&dates=888888" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aelees0807&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA" width="600"/>
 
 </div>
-
-<br/>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aelees0807&bg_color=0D1117&color=00FFF0&line=7B2FFF&point=FF00C8&area=true&hide_border=true&area_color=7B2FFF" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aelees0807&theme=tokyonight" width="100%"/>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ══════════════ TROPHIES ══════════════ -->
-
-## 🏆 &nbsp; `< ACHIEVEMENT.LOG />`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aelees0807&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=6" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aelees0807&bg_color=0D1117&color=A78BFA&line=7C3AED&point=F59E0B&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🐍 Contribution Snake
 
-<!-- ══════════════ EXPERIENCE ══════════════ -->
+<div align="center">
 
-## 🛸 &nbsp; `< EXPERIENCE.LOG />`
+> ⚠️ The snake requires a one-time GitHub Actions setup to display **your** real contributions.
+>
+> **How to enable it in 2 minutes:**
+> 1. Go to your `Aelees0807` repo → **Actions** tab → Enable workflows
+> 2. Create `.github/workflows/snake.yml` with content from [Platane/snk](https://github.com/Platane/snk)
+> 3. Run the workflow once — it generates the SVG automatically
+> 4. Replace the snake `src` URL with:
+>    `https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake-dark.svg`
+
+<!-- Uncomment after Actions setup ↓ -->
+<!-- <img src="https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake-dark.svg" width="100%"/> -->
+
+</div>
+
+---
+
+## 📜 Certifications
+
+<div align="center">
+
+| Certificate | Issuer | Skills |
+|-------------|--------|--------|
+| 🏅 **Data Analysis with Python** | IBM / Coursera | Pandas, NumPy, Matplotlib, Regression |
+| 🏅 **Python for Data Science** | NPTEL | Python, DS Fundamentals, EDA |
+
+</div>
+
+---
+
+## 💼 Experience
 
 ```
-▸ [ACTIVE]    Synent Technologies ───────── Data Science Intern
-              └─ EDA pipelines · Streamlit dashboards · Power BI · Data cleaning
+🏢  Synent Technologies           — Data Science Intern (Current)
+    ↳ Data cleaning, EDA, Streamlit dashboards, Power BI reports
 
-▸ [COMPLETED] 3Skill ─────────────────────── Intern
-              └─ Power BI dashboards · ML workflows · Data projects
+🏢  3Skill                        — Intern (Prior)
+    ↳ Power BI dashboards, ML project experience, Data workflows
 ```
 
-<!-- ══════════════ CERTIFICATIONS ══════════════ -->
+---
 
-## 📡 &nbsp; `< CERTIFICATIONS.DAT />`
+## 🎯 Currently Working On
 
-<div align="center">
+- 🔥 **Streamlit & Power BI Dashboards** — EDA pipelines for Synent Technologies
+- 🧠 **PyTorch Deep Learning** — Training loops, AMP, DataLoader, DDP
+- 📐 **Math for ML** — Linear Algebra (SVD), Probability, Calculus (Jacobians)
+- 🌐 **Full-Stack Polishing** — Jest/Supertest testing on Smart Campus
 
-| 🎖️ Certificate | 🏛️ Issuer | 🔬 Skills Validated |
-|:---|:---|:---|
-| **Data Analysis with Python** | IBM / Coursera | Pandas · NumPy · Matplotlib · Regression |
-| **Python for Data Science** | NPTEL | Python · EDA · DS Fundamentals |
+---
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ══════════════ CURRENTLY LOADING ══════════════ -->
-
-## ⚡ &nbsp; `< CURRENT.PROCESS />`
+## 🌐 Let's Connect
 
 <div align="center">
 
-```
-[RUNNING]  ████████████████░░░░  EDA Dashboards @ Synent (Streamlit + Power BI)
-[RUNNING]  ████████████░░░░░░░░  PyTorch — Training Loops · AMP · DDP
-[LOADING]  ████████░░░░░░░░░░░░  Deep Learning — CNNs · Transformers
-[QUEUED]   ████░░░░░░░░░░░░░░░░  Math for ML — SVD · Jacobians · Backprop
-```
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aelees-bhuva)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aelees0807)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aelees0807@gmail.com)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ══════════════ CONNECT ══════════════ -->
-
-## 🌌 &nbsp; `< CONNECT.INIT />`
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/⚡_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aelees-bhuva)
-[![GitHub](https://img.shields.io/badge/⚡_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aelees0807)
-[![Email](https://img.shields.io/badge/⚡_Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aelees0807@gmail.com)
-
-<br/>
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Aelees0807/Aelees0807/output/github-snake-dark.svg" />
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!%20⭐&fontSize=24&fontColor=A78BFA&fontAlignY=65" width="100%"/>
 
 </div>
 
-<!-- ══════════════ FOOTER ══════════════ -->
+<!-- Made with ❤️ by Aelees Bhuva -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ff00c8,50:7B2FFF,100:00fff0&height=140&section=footer&text=KEEP%20BUILDING.%20KEEP%20BREAKING.%20KEEP%20GROWING.&fontSize=18&fontColor=ffffff&fontAlignY=60&animation=blinking" width="100%"/>
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<!-- EOF — Coded with ⚡ by Aelees Bhuva -->
