@@ -178,7 +178,7 @@ me.say_hi()
 ## 💼 Experience
 
 ```
-🏢  Synent Technologies           — Data Science Intern (Current)
+🏢  Synent Technologies           — Data Science Intern (15 may 2026 - 15 june 2026)
     ↳ Data cleaning, EDA, Streamlit dashboards, Power BI reports
 
 🏢  3Skill                        — Intern (Prior)
