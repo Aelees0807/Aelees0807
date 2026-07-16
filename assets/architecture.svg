@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 460" width="960" height="460">
+
+ <defs>
+  <style type="text/css"><![CDATA[
+    .node-pulse { animation: nodepulse 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes nodepulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    text { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+  ]]></style>
+ </defs>
+ <rect x="1" y="1" width="958" height="458" rx="3" fill="#10141C" stroke="#232A38" stroke-width="1.2"/>
+
+<text x="150" y="55" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#7C8496">INPUT · LANGUAGES</text>
+<line x1="80" y1="70" x2="220" y2="70" stroke="#232A38" stroke-width="1"/>
+<text x="390" y="55" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#7C8496">HIDDEN · ML / DATA</text>
+<line x1="320" y1="70" x2="460" y2="70" stroke="#232A38" stroke-width="1"/>
+<text x="630" y="55" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#7C8496">HIDDEN · FULL-STACK</text>
+<line x1="560" y1="70" x2="700" y2="70" stroke="#232A38" stroke-width="1"/>
+<text x="860" y="55" text-anchor="middle" font-size="11" letter-spacing="1.5" fill="#7C8496">OUTPUT · SHIPPED</text>
+<line x1="790" y1="70" x2="930" y2="70" stroke="#232A38" stroke-width="1"/>
+<line x1="150" y1="110" x2="390" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="110" x2="390" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="110" x2="390" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="110" x2="390" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="110" x2="390" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="185" x2="390" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="185" x2="390" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="185" x2="390" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="185" x2="390" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="185" x2="390" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="260" x2="390" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="260" x2="390" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="260" x2="390" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="260" x2="390" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="260" x2="390" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="335" x2="390" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="335" x2="390" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="335" x2="390" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="335" x2="390" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="335" x2="390" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="410" x2="390" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="410" x2="390" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="410" x2="390" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="410" x2="390" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="150" y1="410" x2="390" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="110" x2="630" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="110" x2="630" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="110" x2="630" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="110" x2="630" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="110" x2="630" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="185" x2="630" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="185" x2="630" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="185" x2="630" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="185" x2="630" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="185" x2="630" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="260" x2="630" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="260" x2="630" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="260" x2="630" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="260" x2="630" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="260" x2="630" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="335" x2="630" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="335" x2="630" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="335" x2="630" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="335" x2="630" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="335" x2="630" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="410" x2="630" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="410" x2="630" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="410" x2="630" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="410" x2="630" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="390" y1="410" x2="630" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="110" x2="860" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="110" x2="860" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="110" x2="860" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="110" x2="860" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="110" x2="860" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="185" x2="860" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="185" x2="860" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="185" x2="860" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="185" x2="860" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="185" x2="860" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="260" x2="860" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="260" x2="860" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="260" x2="860" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="260" x2="860" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="260" x2="860" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="335" x2="860" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="335" x2="860" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="335" x2="860" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="335" x2="860" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="335" x2="860" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="410" x2="860" y2="110" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="410" x2="860" y2="185" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="410" x2="860" y2="260" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="410" x2="860" y2="335" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<line x1="630" y1="410" x2="860" y2="410" stroke="#2A3242" stroke-width="0.6" opacity="0.35"/>
+<circle cx="150" cy="110" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="160.0" y="102.0" width="51.8" height="16" fill="#10141C"/>
+<text x="166" y="114" text-anchor="start" font-size="11.5" fill="#E8E6DF">Python</text>
+<circle cx="150" cy="185" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="160.0" y="177.0" width="77.0" height="16" fill="#10141C"/>
+<text x="166" y="189" text-anchor="start" font-size="11.5" fill="#E8E6DF">JavaScript</text>
+<circle cx="150" cy="260" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="160.0" y="252.0" width="32.9" height="16" fill="#10141C"/>
+<text x="166" y="264" text-anchor="start" font-size="11.5" fill="#E8E6DF">SQL</text>
+<circle cx="150" cy="335" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="160.0" y="327.0" width="32.9" height="16" fill="#10141C"/>
+<text x="166" y="339" text-anchor="start" font-size="11.5" fill="#E8E6DF">C++</text>
+<circle cx="150" cy="410" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="160.0" y="402.0" width="39.2" height="16" fill="#10141C"/>
+<text x="166" y="414" text-anchor="start" font-size="11.5" fill="#E8E6DF">Java</text>
+<circle cx="390" cy="110" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="400.0" y="102.0" width="58.1" height="16" fill="#10141C"/>
+<text x="406" y="114" text-anchor="start" font-size="11.5" fill="#E8E6DF">PyTorch</text>
+<circle cx="390" cy="185" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="400.0" y="177.0" width="89.6" height="16" fill="#10141C"/>
+<text x="406" y="189" text-anchor="start" font-size="11.5" fill="#E8E6DF">Scikit-learn</text>
+<circle cx="390" cy="260" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="400.0" y="252.0" width="102.2" height="16" fill="#10141C"/>
+<text x="406" y="264" text-anchor="start" font-size="11.5" fill="#E8E6DF">Pandas / NumPy</text>
+<circle cx="390" cy="335" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="400.0" y="327.0" width="70.7" height="16" fill="#10141C"/>
+<text x="406" y="339" text-anchor="start" font-size="11.5" fill="#E8E6DF">Streamlit</text>
+<circle cx="390" cy="410" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="400.0" y="402.0" width="64.4" height="16" fill="#10141C"/>
+<text x="406" y="414" text-anchor="start" font-size="11.5" fill="#E8E6DF">Power BI</text>
+<circle cx="630" cy="110" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="640.0" y="102.0" width="45.5" height="16" fill="#10141C"/>
+<text x="646" y="114" text-anchor="start" font-size="11.5" fill="#E8E6DF">React</text>
+<circle cx="630" cy="185" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="640.0" y="177.0" width="102.2" height="16" fill="#10141C"/>
+<text x="646" y="189" text-anchor="start" font-size="11.5" fill="#E8E6DF">Node / Express</text>
+<circle cx="630" cy="260" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="640.0" y="252.0" width="114.8" height="16" fill="#10141C"/>
+<text x="646" y="264" text-anchor="start" font-size="11.5" fill="#E8E6DF">Mongo / Postgres</text>
+<circle cx="630" cy="335" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="640.0" y="327.0" width="133.7" height="16" fill="#10141C"/>
+<text x="646" y="339" text-anchor="start" font-size="11.5" fill="#E8E6DF">Supabase / Firebase</text>
+<circle cx="630" cy="410" r="6.5" fill="#10141C" stroke="#5EEAD4" stroke-width="1.6"/>
+<rect x="640.0" y="402.0" width="89.6" height="16" fill="#10141C"/>
+<text x="646" y="414" text-anchor="start" font-size="11.5" fill="#E8E6DF">Tailwind CSS</text>
+<circle cx="860" cy="110" r="6.5" fill="#10141C" stroke="#FF8A5B" stroke-width="1.6"/>
+<rect x="791.9" y="102.0" width="58.1" height="16" fill="#10141C"/>
+<text x="844" y="114" text-anchor="end" font-size="11.5" fill="#E8E6DF">SpendIO</text>
+<circle cx="860" cy="185" r="6.5" fill="#10141C" stroke="#FF8A5B" stroke-width="1.6"/>
+<rect x="760.4" y="177.0" width="89.6" height="16" fill="#10141C"/>
+<text x="844" y="189" text-anchor="end" font-size="11.5" fill="#E8E6DF">Smart Campus</text>
+<circle cx="860" cy="260" r="6.5" fill="#10141C" stroke="#FF8A5B" stroke-width="1.6"/>
+<rect x="773.0" y="252.0" width="77.0" height="16" fill="#10141C"/>
+<text x="844" y="264" text-anchor="end" font-size="11.5" fill="#E8E6DF">ApnaSheher</text>
+<circle cx="860" cy="335" r="6.5" fill="#10141C" stroke="#FF8A5B" stroke-width="1.6"/>
+<rect x="728.9" y="327.0" width="121.1" height="16" fill="#10141C"/>
+<text x="844" y="339" text-anchor="end" font-size="11.5" fill="#E8E6DF">Synent Dashboards</text>
+<circle cx="860" cy="410" r="6.5" fill="#10141C" stroke="#FF8A5B" stroke-width="1.6" stroke-dasharray="3,2.5" class="node-pulse"/>
+<rect x="697.4" y="402.0" width="152.6" height="16" fill="#10141C"/>
+<text x="844" y="414" text-anchor="end" font-size="11.5" fill="#FF8A5B">AI Diagnostic Platform</text>
+</svg>
