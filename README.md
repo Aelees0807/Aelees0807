@@ -4,13 +4,11 @@
 
 <br/>
 
-## Model Description
+<div align="center">
+<img src="./assets/bio.svg" alt="Animated terminal introduction: Aelees Bhuva, B.Tech Computer Engineering CHARUSAT, Data Science Intern at Synent Technologies, building models that ship" width="100%"/>
+</div>
 
-Aelees Bhuva is a third-year B.Tech Computer Engineering student (Data Science specialization) at DEPSTAR, CHARUSAT University, currently completing a Data Science Internship at Synent Technologies. Prior experience includes an internship at 3Skill and a portfolio of full-stack and applied ML projects spanning expense tracking, campus administration, and medical image classification.
-
-The throughline across the work below: taking a messy dataset or a rough idea and turning it into something a user can actually open and use — not just a notebook that runs once.
-
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 ## Architecture
 
@@ -20,7 +18,7 @@ The throughline across the work below: taking a messy dataset or a rough idea an
 
 Four layers, roughly in the order they were picked up: languages in, ML/data tooling and full-stack tooling as the hidden layers, shipped systems out. Every project in the output layer drew on nodes from both hidden layers at once — none of them are pure-ML or pure-web.
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 ## Training Log
 
@@ -35,12 +33,12 @@ Loss here stands in for inexperience. `train_loss` tracks raw skill acquisition;
 | `01` | Foundations — IBM and NPTEL certifications in Python for data science |
 | `02` | SpendIO and Apna Seher shipped — first full-stack projects in production |
 | `03` | 3Skill internship · Smart Campus Workflow Hub built |
-| `04` | PyTorch fluency refresh (training loops, AMP, DDP) · DAA / COA exam cycle |
+| `04` | PyTorch fluency refresh (training loops, AMP, DDP) · exam cycle |
 | `05` | Synent Technologies internship — 6 tasks shipped, dashboard deployed |
-| `06` | Physical AI / robotics research track started · DSA roadmap begun |
+| `06` | Physical AI / robotics research track started |
 | `07` | **Now** — Integrated AI Diagnostic Platform in progress |
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 ## Training Data
 
@@ -51,20 +49,17 @@ Loss here stands in for inexperience. `train_loss` tracks raw skill acquisition;
 | Data Analysis with Python | IBM / Coursera · `Y5N037D1EF8X` | Pandas, NumPy, regression, visualization |
 | Python for Data Science | NPTEL · `NPTEL25CS104S350100059` | Python fundamentals, exploratory data analysis |
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 ## Intended Use
 
 **Primary task — Integrated AI Diagnostic Platform for Medical X-Rays and Crop Pathology**
 Two independent PyTorch models — pneumonia detection from chest X-rays, crop disease classification from leaf imagery — served behind a single shared web interface. The constraint that shapes every design decision: training and inference both have to fit inside 6GB of VRAM on an RTX 4050, which means mixed-precision training and deliberate batch-size tuning aren't optional.
 
-**Secondary task — placement readiness**
-A four-phase DSA roadmap, fundamentals through mock interviews, running in parallel with the above ahead of campus placements.
-
 **Shipped and reachable**
 The Synent Technologies internship work is live — data cleaning, EDA, and dashboarding across six tasks, including a [deployed Streamlit app](https://synent-task04-csvtodahboard-aeleesbhuva.streamlit.app/) for CSV-to-dashboard conversion.
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 ## Evaluation
 
@@ -75,7 +70,7 @@ The Synent Technologies internship work is live — data cleaning, EDA, and dash
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aelees0807&background=10141C&stroke=232A38&ring=FF8A5B&fire=FF8A5B&currStreakLabel=5EEAD4&sideLabels=7C8496&currStreakNum=E8E6DF&sideNums=E8E6DF&dates=7C8496&border=232A38&hide_border=false" alt="Aelees's GitHub streak stats" height="165"/>
 </div>
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 ## Limitations & Future Work
 
@@ -83,7 +78,7 @@ The Synent Technologies internship work is live — data cleaning, EDA, and dash
 - **Production ops** — stronger on the modeling and data side than on deployment infrastructure at scale; actively being corrected via the diagnostic platform's deployment work.
 - **Known bias** — trained mostly on self-directed and internship projects rather than large team codebases; seeking that experience next.
 
-<br/>
+<img src="./assets/divider.svg" alt="" width="100%"/>
 
 ## Citation
 
@@ -93,7 +88,7 @@ If you'd like to reach out, cite as:
 @person{bhuva_aelees,
   title      = {Aelees Bhuva},
   role       = {Data Science Intern, Synent Technologies},
-  education  = {B.Tech Computer Engineering (Data Science), CHARUSAT University},
+  education  = {B.Tech Computer Engineering, CHARUSAT University},
   github     = {https://github.com/Aelees0807},
   linkedin   = {https://linkedin.com/in/aelees-bhuva},
   email      = {aelees07@gmail.com},

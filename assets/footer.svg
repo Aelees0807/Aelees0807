@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 70" width="960" height="70">
+ <defs>
+  <style type="text/css"><![CDATA[
+    .dot { animation: blink 2.4s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .dot2 { animation: blink 2.4s ease-in-out .5s infinite; transform-box: fill-box; transform-origin: center; }
+    .dot3 { animation: blink 2.4s ease-in-out 1s infinite; transform-box: fill-box; transform-origin: center; }
+    @keyframes blink { 0%,100% { opacity: .25; } 50% { opacity: 1; } }
+  ]]></style>
+ </defs>
+ <rect x="1" y="1" width="958" height="68" rx="3" fill="#10141C" stroke="#232A38" stroke-width="1.2"/>
+ <line x1="24" y1="35" x2="740" y2="35" stroke="#232A38" stroke-width="1"/>
+ <text x="480.0" y="40" text-anchor="middle" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="11.5" letter-spacing="1.5" fill="#7C8496">checkpoint saved · thanks for reading the card</text>
+ <circle class="dot" cx="770" cy="35" r="3" fill="#FF8A5B"/>
+ <circle class="dot2" cx="784" cy="35" r="3" fill="#5EEAD4"/>
+ <circle class="dot3" cx="798" cy="35" r="3" fill="#FF8A5B"/>
+ <line x1="820" y1="35" x2="936" y2="35" stroke="#232A38" stroke-width="1"/>
+</svg>
