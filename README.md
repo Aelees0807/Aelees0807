@@ -64,7 +64,7 @@ Right now that means building an image-classification platform in PyTorch, picki
 ## GITHUB.TELEMETRY
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Aelees0807&show_icons=true&count_private=true&bg_color=080D1C&title_color=22D3EE&icon_color=B39DFF&text_color=E7E9F1&border_color=1B2340&hide_border=false" alt="Aelees's GitHub stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Aelees0807&show_icons=true&count_private=true&bg_color=080D1C&title_color=22D3EE&icon_color=B39DFF&text_color=E7E9F1&border_color=1B2340&hide_border=false" alt="Aelees's GitHub stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aelees0807&background=080D1C&stroke=1B2340&ring=22D3EE&fire=22D3EE&currStreakLabel=B39DFF&sideLabels=6E7A99&currStreakNum=E7E9F1&sideNums=E7E9F1&dates=6E7A99&border=1B2340&hide_border=false" alt="Aelees's GitHub streak stats" height="165"/>
 </div>
 
