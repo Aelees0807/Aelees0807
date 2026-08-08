@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 300" width="960" height="300">
+ <defs>
+  <style type="text/css"><![CDATA[
+    text { font-family: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace; }
+    @keyframes hreveal0 { from { width: 0px; } to { width: 339.0px; } }
+    .hl0 { width:0px; animation: hreveal0 0.96s steps(37,end) forwards; animation-delay:0.15s; }
+    @keyframes hreveal1 { from { width: 0px; } to { width: 123.0px; } }
+    .hl1 { width:0px; animation: hreveal1 0.34s steps(13,end) forwards; animation-delay:1.23s; }
+    @keyframes hreveal2 { from { width: 0px; } to { width: 303.0px; } }
+    .hl2 { width:0px; animation: hreveal2 0.86s steps(33,end) forwards; animation-delay:1.69s; }
+    @keyframes hreveal3 { from { width: 0px; } to { width: 573.0px; } }
+    .hl3 { width:0px; animation: hreveal3 1.64s steps(63,end) forwards; animation-delay:2.67s; }
+    @keyframes hreveal4 { from { width: 0px; } to { width: 285.0px; } }
+    .hl4 { width:0px; animation: hreveal4 0.81s steps(31,end) forwards; animation-delay:4.43s; }
+    @keyframes hreveal5 { from { width: 0px; } to { width: 357.0px; } }
+    .hl5 { width:0px; animation: hreveal5 1.01s steps(39,end) forwards; animation-delay:5.35s; }
+    .bootdot { opacity:0; animation: bootdotshow 0.4s ease-out forwards, bootpulse 2s ease-in-out 1.63s infinite; animation-delay:1.23s, 1.23s; }
+    @keyframes bootdotshow { to { opacity: 1; } }
+    @keyframes bootpulse { 0%,100% { opacity: 1; } 50% { opacity: .35; } }
+    .cursor2 { opacity:0; animation: curblink2 1s steps(1,end) infinite; animation-delay:6.49s; }
+    @keyframes curblink2 { 0%,100% { opacity: 0; } 50% { opacity: 1; } }
+  ]]></style>
+  <pattern id="hdotgrid" width="24" height="24" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="#1B2340" opacity="0.6"/>
+  </pattern>
+ </defs>
+
+ <rect x="1" y="1" width="958" height="298" rx="6" fill="#0B1226" stroke="#1B2340" stroke-width="1.2"/>
+ <rect x="1" y="35" width="958" height="264" fill="url(#hdotgrid)"/>
+
+ <!-- title bar -->
+ <rect x="1" y="1" width="958" height="34" rx="6" fill="#080D1C"/>
+ <rect x="1" y="18" width="958" height="17" fill="#080D1C"/>
+ <line x1="1" y1="35" x2="959" y2="35" stroke="#1B2340" stroke-width="1"/>
+ <circle cx="24" cy="18" r="5.5" fill="#3A4468"/>
+ <circle cx="44" cy="18" r="5.5" fill="#3A4468"/>
+ <circle cx="64" cy="18" r="5.5" fill="#22D3EE" opacity="0.8"/>
+ <text x="480.0" y="23" text-anchor="middle" font-size="11.5" letter-spacing="1.5" fill="#6E7A99">AELEES@GITHUB — PROFILE.SH</text>
+
+ <circle class="bootdot" cx="18" cy="100" r="4" fill="#22D3EE"/>
+
+ <clipPath id="hclip0"><rect class="hl0" x="30" y="61" height="22" width="0"/></clipPath>
+ <text clip-path="url(#hclip0)" x="34" y="78" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15"><tspan fill="#22D3EE">aelees@github:~$ ./initialize_profile</tspan></text>
+ <clipPath id="hclip1"><rect class="hl1" x="30" y="88" height="22" width="0"/></clipPath>
+ <text clip-path="url(#hclip1)" x="34" y="105" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="17" font-weight="600"><tspan fill="#E7E9F1">SYSTEM ONLINE</tspan></text>
+ <clipPath id="hclip2"><rect class="hl2" x="30" y="115" height="22" width="0"/></clipPath>
+ <text clip-path="url(#hclip2)" x="34" y="132" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15"><tspan fill="#B39DFF">Developer  ·  Student  ·  Builder</tspan></text>
+ <clipPath id="hclip3"><rect class="hl3" x="30" y="142" height="22" width="0"/></clipPath>
+ <text clip-path="url(#hclip3)" x="34" y="159" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15"><tspan fill="#6E7A99">&gt; Computer Engineering student building software, data systems,</tspan></text>
+ <clipPath id="hclip4"><rect class="hl4" x="30" y="169" height="22" width="0"/></clipPath>
+ <text clip-path="url(#hclip4)" x="34" y="186" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15"><tspan fill="#6E7A99">  and intelligent applications.</tspan></text>
+ <clipPath id="hclip5"><rect class="hl5" x="30" y="196" height="22" width="0"/></clipPath>
+ <text clip-path="url(#hclip5)" x="34" y="213" font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="15"><tspan fill="#6E7A99">&gt; focus: building + learning + shipping</tspan></text>
+
+ <rect class="cursor2" x="385.0" y="199" width="8" height="16" fill="#22D3EE"/>
+
+ <line x1="34" y1="254" x2="926" y2="254" stroke="#1B2340" stroke-width="1"/>
+ <text x="34" y="278" font-size="12" fill="#6E7A99">github.com/Aelees0807</text>
+ <text x="926" y="278" text-anchor="end" font-size="12" fill="#22D3EE">● ONLINE</text>
+</svg>
